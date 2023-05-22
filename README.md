@@ -25,7 +25,7 @@ To run this script, you need the following libraries installed:
 
 3. Place your image file in the project directory (e.g., `image.png`).
 
-4. Open the `image_processing.py` file and modify the following line to specify the path to your image:
+4. Open the `toGrayChange.py` file and modify the following line to specify the path to your image:
 
    ```python
    image = plt.imread('path/to/image/image.png')
