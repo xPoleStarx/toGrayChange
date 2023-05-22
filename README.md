@@ -34,7 +34,7 @@ To run this script, you need the following libraries installed:
 5. Run the script:
 
    ```bash
-   python image_processing.py
+   python toGrayChange.py
    ```
 
 6. The script will display two plots: the original image and the binary image.
