@@ -1,7 +1,3 @@
-Certainly! Here's an updated version of the README.md file without the example and license sections, and with the addition of emojis:
-
----
-
 # 🌄 Image Processing with NumPy and Matplotlib
 
 This repository contains a Python script for loading an image using NumPy and Matplotlib, converting it to grayscale, applying a binary threshold, and displaying the original and binary images.
